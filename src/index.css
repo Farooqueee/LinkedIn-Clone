@@ -21,6 +21,6 @@ body,
 body {
   font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   background-color: #f3f2ef; /* Optional: match LinkedIn clone */
-  —webkit-font-smoothing: antialiased;
-  —moz—osx—font—smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -moz—osx—font—smoothing: grayscale;
 }
