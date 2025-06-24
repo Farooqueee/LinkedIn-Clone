@@ -1,6 +1,7 @@
 .header {
   position: sticky;
   top: 0;
+  background-color: white;
   display: flex;
   justify-content: space-evenly;
   border-bottom: 0.1px solid lightgray;
@@ -13,7 +14,7 @@
 }
 .header__left img {
   object-fit: contain;
-  height: 60px;
+  height: 45px;
   margin-right: 10px;
 }
 .header__search {
