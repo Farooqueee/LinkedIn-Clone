@@ -14,7 +14,7 @@
 .header__left img {
   object-fit: contain;
   height: 60px;
-  margin-left: 10px;
+  margin-right: 10px;
 }
 .header__search {
   padding: 10px;
